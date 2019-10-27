@@ -1,6 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
+    <option name="PARAMETER_INFO_DELAY" value="100" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
