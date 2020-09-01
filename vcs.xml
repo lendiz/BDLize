@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/lendiz/NewMDMUI" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lendiz/scoring" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Tom\PycharmProjects" />
